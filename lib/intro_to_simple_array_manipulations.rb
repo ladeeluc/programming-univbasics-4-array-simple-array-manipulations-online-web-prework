@@ -12,5 +12,5 @@ def using_pop(array) # defined method
 end
 
 def pop_with_args(array) #defined methods
-  pop_with_args.pop # removes last element of  array
+  array.pop(2) # removes last element of  array
 end
