@@ -15,4 +15,3 @@ end
 def pop_with_args(array) #defined methods
   pop_with_args.pop # removes last element of  array
 end
-
