@@ -24,5 +24,5 @@ def shift_with_args(array)
 end
 
 def using_concat(arrayone,arraytwo)
-concat.arraytwo (arrayone)
+concat.arrayone(arraytwo)
 end
