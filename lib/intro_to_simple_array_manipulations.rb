@@ -28,5 +28,5 @@ arrayone.concat(arraytwo)
 end
 
 def using_insert(argone,argtwo)
-  argone[4] = argtwo
+  argone(argone)[4]
 end
