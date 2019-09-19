@@ -32,6 +32,5 @@ def using_insert(argone,element)
 end
 
 def using_uniq(array)
-  array.unip
+  array.uniq
 end
-  
