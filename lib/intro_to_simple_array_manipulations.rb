@@ -16,7 +16,7 @@ def pop_with_args(array) #defined methods
 end
 
 def using_shift(array,string)
-  array.shift(String)
+  array.shift(string)
 end
 
 def shift_with_args(array)
