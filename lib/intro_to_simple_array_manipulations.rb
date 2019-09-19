@@ -3,7 +3,7 @@ def using_push (array,string)
   array.push(string)
 end
 
-def using_unshift (Array,String)
+def using_unshift(Array,String)
   array.unshift(string)
 end
 
