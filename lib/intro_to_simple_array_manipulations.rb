@@ -27,7 +27,6 @@ def using_concat(arrayone,arraytwo)
 arrayone.concat(arraytwo)
 end
 
-def using_insert(array,newelement)
-  newelement = "Python"
-  array[4] = newelement
+def using_insert(argone,argtwo)
+  argtwo[4]
 end
